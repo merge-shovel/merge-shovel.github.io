@@ -1,4 +1,4 @@
-facebook.com, 1701453524606509, DIRECT, c3e20eee3f780d68 加到  https://merge-shovel.github.io/app-ads.txt.
+facebook.com, 1701453524606509, DIRECT, c3e20eee3f780d68
 
 inmobi.com, 045820998bcb42489a02ebc6186be1b9, DIRECT, 83e75a7ae333ca9d
 rubiconproject.com, 11726, RESELLER, 0bfd66d529a55807
